@@ -1,5 +1,5 @@
 # Cambio climático y ML
-Repositorio para la Maestría de la Diplomatura en Ciencia de Datos de FAMAF (2023).
+Repositorio para la Maestría de la Diplomatura en Ciencia de Datos de FAMAF (2024).
 
 En este proyecto te propongo intentar mitigar los efectos del cambio climático mediante el análisis de la eficiencia energética de una de las industrias más contaminates (en términos de sus emisiones de CO2) a escala global: la industria de la construcción. 
 
